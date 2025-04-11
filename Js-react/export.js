@@ -31,6 +31,6 @@ console.log(FullName()); // Output: John Doe
 
 //So, Basically
 
-//Type	            Export Syntax	            Import Syntax
-//Named export	    export function myFunc()	import { myFunc } from "file"
-//Default export	export default myFunc	    import myFunc from "file"
+//Type	            Export Syntax	              Import Syntax
+//Named export	    export function myFunc()	  import { myFunc } from "file"
+//Default export	  export default myFunc	      import myFunc from "file"
